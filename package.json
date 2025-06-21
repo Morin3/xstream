@@ -65,7 +65,7 @@
     "markdown-doctest": "0.9.1",
     "markdox": "0.1.10",
     "mkdirp": "0.5.1",
-    "mocha": "^5.2.0",
+    "mocha": "^11.0.1",
     "most": "^1.9.0",
     "sinon": "1.16.0",
     "strip-comments": "0.4.4",
